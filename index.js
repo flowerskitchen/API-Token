@@ -6,7 +6,7 @@ const PORT = 3000;
 
 // Middleware to parse JSON requests
 app.use(express.json());
-
+app.
 // Secret key for JWT
 const SECRET_KEY = 'my_secret_key';
 
